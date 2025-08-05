@@ -18,7 +18,7 @@
     <form>
       <h2>Login</h2>
       <div class="input-box">
-        <input type="email" name="email" id="email" require />
+        <input type="text" name="email" id="email" require />
         <label for="email">Email</label>
       </div>
       <div class="input-box">
@@ -38,4 +38,5 @@
   </div>
 </div>
 </body>
+
 </html>
